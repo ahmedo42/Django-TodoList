@@ -1,0 +1,20 @@
+#x , #check , #set_date{
+    float: right;
+    text-align: center;
+    margin: 10px;
+    width: 75px;
+    height: 50px;
+}
+
+.list-group{
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#add{
+    margin-bottom: 5px;
+}
+
+#name{
+    text-align: center;
+    font-size: larger;
+}
